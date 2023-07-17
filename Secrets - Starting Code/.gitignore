@@ -1,0 +1,9 @@
+/node_modules
+/Config/config.env
+.DS_Store
+.vscode
+/Credentials/credentials.json
+/package-lock.json
+/passport.js
+/temp.js
+/temp2.js
